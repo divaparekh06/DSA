@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
@@ -61,4 +63,5 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
