@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -40,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
