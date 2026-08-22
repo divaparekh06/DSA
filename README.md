@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -45,10 +46,12 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Quicksort
 |  |
 | ------- |
@@ -66,4 +69,13 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
