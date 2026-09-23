@@ -49,6 +49,7 @@
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
@@ -86,4 +87,5 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
