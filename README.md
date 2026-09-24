@@ -48,6 +48,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
@@ -89,6 +90,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
