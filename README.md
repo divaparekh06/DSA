@@ -22,6 +22,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
@@ -94,4 +96,8 @@
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
