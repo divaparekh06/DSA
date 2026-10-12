@@ -54,6 +54,7 @@
 | [0189-rotate-array](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
 ## Quicksort
 |  |
 | ------- |
@@ -95,9 +97,14 @@
 | [0135-candy](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0189-rotate-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
