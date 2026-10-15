@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Quicksort
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -100,6 +104,7 @@
 | [0435-non-overlapping-intervals](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 ## Math
 |  |
@@ -109,4 +114,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
