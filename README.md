@@ -25,6 +25,7 @@
 | [0005-longest-palindromic-substring](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -123,9 +125,11 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
